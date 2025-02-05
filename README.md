@@ -1,6 +1,6 @@
 **A hands-on bioinformatics learning tutorial**
 
-### Main Content:
+**Main Content:**
 
 - **Environment setup**
 - **Prerequisite knowledge explanation**
@@ -10,12 +10,25 @@ I have incorporated my own understanding and modifications, and reproduced the a
 
 Each tutorial is organized as a **directory**, with `readme.md` as the main documentation. Most tutorials are accompanied by an **equivalent Jupyter Notebook (`.ipynb`)**.
 
-Examples in this tutorial are implemented in both **Python and R**, so no prior Python knowledge is required.
+Examples in this tutorial are implemented in both **Python and R**.
 
-### Main Reference Course:
+**Main Reference Course:**
 
 **Introduction to Bioinformatics and Computational Biology (Harvard Stat 115/215)**
 
 - **Original Course:** [https://liulab-dfci.github.io/bioinfo-combio/](https://liulab-dfci.github.io/bioinfo-combio/)
 - **Teaching Materials:** [https://liulab-dfci.github.io/teaching](https://liulab-dfci.github.io/teaching)
 - **Course Homework:** [https://github.com/7insong/stat115_hw](https://github.com/7insong/stat115_hw)
+
+---
+
+**Table of Contents**
+
+- **Prerequisite 1 R with Anaconda and Jupyter**
+
+- **Prerequisite 2 R Basics**
+
+- **Prerequisite 3 Deploying Linux and Development Environment on Windows**
+
+- **Chapter 1 RNA-Seq Data Processing and Analysis: Alignment, Quality Control, and Quantification**
+  - **Section 1-1 STAR alignment**
