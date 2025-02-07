@@ -32,3 +32,8 @@ Examples in this tutorial are implemented in both **Python and R**.
 
 - **Chapter 1 RNA-Seq Data Processing and Analysis: Alignment, Quality Control, and Quantification**
   - **Section 1-1 STAR alignment**
+  - **Section 1-2 RNA-Seq quality control**
+
+  - **Section 1-3 RNA-Seq quantification**
+
+  - **Section 1-4 Compare RSEM vs Salmon**
