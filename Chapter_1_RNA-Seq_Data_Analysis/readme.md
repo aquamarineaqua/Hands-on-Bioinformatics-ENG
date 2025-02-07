@@ -10,3 +10,6 @@ Before proceeding with practical implementation, it is recommended to first revi
 
 - **Chapter 1: RNA-Seq Data Processing and Analysis: Alignment, Quality Control, and Quantification**
   - **Section 1-1: STAR alignment**
+  - **Section 1-2: RNA-Seq quality control**
+  - **Section 1-3: RNA-Seq quantification**
+  - **Section 1-4: Compare RSEM vs Salmon**
